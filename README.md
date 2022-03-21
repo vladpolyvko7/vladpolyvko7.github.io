@@ -1,5 +1,5 @@
 ## Персональний сайт
 
-# ***Поливка Владислава***
+# ***Polyvko Vladyslav***
 
 ### __vladpolyvko7.github.io__
